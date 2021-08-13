@@ -3,7 +3,7 @@ import { QuizContexts } from "../Helpers/Contexts";
 import "../App.css";
 
 function MainMenu() {
-  const { gameState, setGameState } = useContext(QuizContexts);
+  const { setGameState } = useContext(QuizContexts);
 
   return (
     <div className="Menu">
