@@ -7,7 +7,7 @@ function MainMenu() {
 
   return (
     <div className="Menu">
-      <label for="name">Input Your Name:</label>
+      <label htmlFor="name">Input Your Name:</label>
       <input type="text" id="name" name="name" placeholder="Your Name" title="Input Your Name" required />
 
       <button
