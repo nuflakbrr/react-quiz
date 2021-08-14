@@ -25,11 +25,12 @@ function Quiz() {
 
   return (
     <div className="Quiz">
-      <h1>{Question[currQuestion].prompt}</h1>
+      <h1 className="Questions">{Question[currQuestion].prompt}</h1>
       <div className="option">
         <button onClick={() => setOptionChoosen("A")}>{Question[currQuestion].optionA}</button>
         <button onClick={() => setOptionChoosen("B")}>{Question[currQuestion].optionB}</button>
         <button onClick={() => setOptionChoosen("C")}>{Question[currQuestion].optionC}</button>
+        <button onClick={() => setOptionChoosen("D")}>{Question[currQuestion].optionD}</button>
       </div>
 
       {currQuestion === Question.length - 1 ? (
