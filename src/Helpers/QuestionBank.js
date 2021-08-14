@@ -89,4 +89,49 @@ export const Question = [
     optionD: "7",
     answer: "C",
   },
+  // 11
+  {
+    prompt: "A simple basic command in the passcal program is ...",
+    optionA: "Readln",
+    optionB: "End",
+    optionC: "Write",
+    optionD: "Writeln",
+    answer: "C",
+  },
+  // 12
+  {
+    prompt: "The Pascal language data type for TRUE FALSE is ...",
+    optionA: "String",
+    optionB: "Boolean",
+    optionC: "Char",
+    optionD: "Byte",
+    answer: "B",
+  },
+  // 13
+  {
+    prompt: "The structure of the very first Pascal programming language is ...",
+    optionA: "Var;",
+    optionB: "Writeln;",
+    optionC: "End;",
+    optionD: "Uses crt;",
+    answer: "D",
+  },
+  // 14
+  {
+    prompt: "Pascal's data type for characters is ...",
+    optionA: "Char",
+    optionB: "Boolean",
+    optionC: "Integer",
+    optionD: "Byte",
+    answer: "A",
+  },
+  // 15
+  {
+    prompt: "When was Pascal formed?",
+    optionA: "1981",
+    optionB: "1971",
+    optionC: "1961",
+    optionD: "1991",
+    answer: "B",
+  },
 ];

@@ -11,6 +11,10 @@ Naufal Akbar Nugroho
 
 ## Version History
 
+- 1.0.1
+
+  - [Added new questions](CHANGELOG.md)
+
 - 1.0.0
   - [Initial Release](CHANGELOG.md)
 
