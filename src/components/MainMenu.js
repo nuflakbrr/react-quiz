@@ -7,8 +7,8 @@ function MainMenu() {
 
   return (
     <div className="Menu">
-      <label htmlFor="name">Input Your Name:</label>
-      <input type="text" id="name" name="name" placeholder="Your Name" title="Input Your Name" required />
+      {/* <label htmlFor="name">Input Your Name:</label>
+      <input type="text" id="name" name="name" placeholder="Your Name" title="Input Your Name" required /> */}
 
       <button
         onClick={() => {
