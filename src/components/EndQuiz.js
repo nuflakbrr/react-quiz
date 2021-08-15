@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { QuizContexts } from "../Helpers/Contexts";
 import { Question } from "../Helpers/QuestionBank";
-import "../App.css";
+import "../styles/App.css";
 
 function EndQuiz() {
   const { score, setScore, setGameState } = useContext(QuizContexts);
