@@ -1,5 +1,5 @@
 :root {
-  --clr-white: white;
+  --clr-black: black;
 }
 
 * {
@@ -41,8 +41,8 @@ p {
 }
 
 button {
-  color: whitesmoke;
-  background-color: #2a2f42;
+  color: black;
+  background-color: white;
 }
 
 button:active {
@@ -51,8 +51,8 @@ button:active {
 }
 
 button:focus {
-  -webkit-box-shadow: 0 0 0 3px var(--clr-white);
-          box-shadow: 0 0 0 3px var(--clr-white);
+  -webkit-box-shadow: 0 0 0 3px var(--clr-black);
+          box-shadow: 0 0 0 3px var(--clr-black);
 }
 
 .Questions {
@@ -131,15 +131,15 @@ input {
 }
 
 .Menu button:hover {
-  background-color: #485a81;
+  background-color: lightgrey;
 }
 
 .Quiz button:hover {
-  background-color: #485a81;
+  background-color: lightgrey;
 }
 
 .EndScreen button:hover {
-  background-color: #485a81;
+  background-color: lightgrey;
 }
 
 @media screen and (max-width: 425px) {
