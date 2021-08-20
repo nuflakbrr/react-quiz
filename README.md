@@ -13,7 +13,7 @@ Naufal Akbar Nugroho
 
 - 1.0.1
 
-  - [Added new questions](CHANGELOG.md)
+  - [Link Question API](CHANGELOG.md)
 
 - 1.0.0
   - [Initial Release](CHANGELOG.md)
