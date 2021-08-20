@@ -1,12 +1,12 @@
 # Change log
 
-## v1.0.1 — Aug. 14, 2021
+## v1.0.1 — Aug. 20, 2021
 
-Added new questions
+Link Question API.
 
 **Added:**
 
-- New questions
+- Link question API
 
 ## v1.0.0 — Aug. 13, 2021
 
